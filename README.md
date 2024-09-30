@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Asp net core**
+<!--- 🌱 I’m currently learning **Asp net core**-->
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://.com)** -->
 
